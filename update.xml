@@ -1,7 +1,7 @@
 <TestAppUpdate>
   <update>
-    <latestVersion>1.0.1</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
+    <latestVersion>1.0.0</latestVersion>
+    <latestVersionCode>1</latestVersionCode>
     <url>https://github.com/JahangirJadi/TestAppUpdate/releases</url>
   </update>
 </TestAppUpdate>
